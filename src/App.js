@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>HELLO REACT RUN IN AWS</h1>
-      <h2>MOHD NADEEM</h2>
+      <h2>Application</h2>
     </div>
   );
 }
