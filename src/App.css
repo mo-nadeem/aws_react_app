@@ -9,3 +9,7 @@ h2 {
   color: yellowgreen;
   font-style: italic; 
 }
+p {
+  font-size: 14px;
+  color: black;
+}
