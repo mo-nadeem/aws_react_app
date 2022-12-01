@@ -3,9 +3,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World React ORISERV PVT LTD</h1>
-      <h2>A complete log of this run can be found </h2>
-      <p>This is probably not a problem with npm. There is likely additional logging output above.</p>
+      <h1>ORISERV PVT LTD</h1>
+        <p>
+        Meet Ori, A Self-learning, Intelligent Conversationalist created by the visionaries at ORI, that improves
+conversions & conversations for brands across Industry.
+We’re literally omnipresent. Our cognitive solutions are built & trained to revolutionize the end-to-end
+spaces of Sales, Marketing, Support & Engagement across IoT devices, sensors, web, app, social media &
+messaging platforms as well as AR and VR platforms. You name it. We’re on it.
+        </p>
+        <img src='image_oriserv.png'/>
     </div>
   );
 }
