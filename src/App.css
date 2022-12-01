@@ -1,15 +1,10 @@
 .App {
   text-align: center;
-  font-size: 40PX;
-  color: skyblue;
-  font-style: italic;
 }
-h2 {
-  font-size: 40PX;
-  color: yellowgreen;
-  font-style: italic; 
+h1 {
+  font-size: 30px;
+  color: yellowgreen; 
 }
 p {
   font-size: 14px;
-  color: black;
 }
